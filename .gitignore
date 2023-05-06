@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Build Directories
+release
+debug
+
+# QT Build Files
+Makefile*
+.qmake.stash
+
+# Editor Files
+*~
+*.swp
